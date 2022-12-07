@@ -9,6 +9,10 @@
     "dev": "nodemon server.js",
     "p": "nodemon p.js"
   },
+    "engines": {
+      "node": "16.13.0",
+      "npm": "8.1.0"
+    },
   "author": "Arghadip Shee",
   "license": "ISC",
   "dependencies": {
